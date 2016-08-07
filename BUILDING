@@ -1,0 +1,7 @@
+You will need some dependencies:
+  curl qmake
+You DO NOT need Qt, qmake alone will do.
+
+Run
+  qmake && make
+to build the executable. 
